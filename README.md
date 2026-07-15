@@ -1,31 +1,31 @@
-https://github-readme-streak-stats.herokuapp.com/
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wisik28)
-![Stats](https://github-readme-stats.vercel.app/api?username=Wisik28&show_icons=true&theme=tokyonight)
+<div align="center">
+  <h2>Hi there, I'm Wisik28 👋</h2>
+  <img src="https://komarev.com/ghpvc/?username=Wisik28&style=flat-square&color=blue" alt="Profile Views" />
+</div>
 
-## Hi there 👋
-<h2>Language and Tools</h2>
-<p>
-  <img src="https://skillicons.dev/icons?i=Java, Python, HTML/CSS, PHP, React.js, Next.js, Node.js, Docker, GitHub,VSCode" />
-</p>
+<br />
 
-## Databases
-<img src="https://skillicons.dev/icons?i=MySQL, MongoDB,sqlite" />
+### 🛠️ Languages & Tools
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,php,laravel,react,nextjs,nodejs,vite,mysql,mongodb,sqlite,docker,linux,github,vscode" alt="My Skills" />
+  </a>
+</div>
 
-github-contribution-grid-snake
+<br />
 
-![](https://komarev.com/ghpvc/?username=USERNAME)
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wisik28&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
 
-<!--
-**Wisik28/Wisik28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Contribution Grid
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wisik28/Wisik28/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wisik28/Wisik28/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Wisik28/Wisik28/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
